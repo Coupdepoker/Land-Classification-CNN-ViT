@@ -116,7 +116,7 @@ jupyter notebook
 
 ## 📊 Key Results
 
-Evaluated on **6,000 satellite images** (3,000 agricultural / 3,000 non-agricultural) — 21-year backtest on real data.
+Evaluated on **6,000 satellite images** (3,000 agricultural / 3,000 non-agricultural).
  
 | Metric | Keras CNN-ViT | PyTorch CNN-ViT |
 |---|---|---|
