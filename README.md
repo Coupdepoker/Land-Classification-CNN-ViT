@@ -105,8 +105,8 @@ Classification Head  ──── agricultural / non-agricultural
 
 ```bash
 # Clone the repository
-git clone https://github.com/Coupdepoker/land-classification-cnn-vit.git
-cd land-classification-cnn-vit
+git clone https://github.com/Coupdepoker/Land-Classification-CNN-ViT.git
+cd Land-Classification-CNN-ViT/
 
 # Run notebooks in order (Module 1 → 4)
 jupyter notebook
